@@ -1,5 +1,5 @@
 <?php
-// Custom CLI commands to update user meta or user role. Can be for 1 user ID, or from a list of user IDs in a file.
+// Custom CLI commands to update user meta or user role via Action Scheduler. Can be for 1 user ID, or from a list of user IDs in a file.
 
 if ( class_exists( 'WPCOM_VIP_CLI_Command' ) ) {
 
